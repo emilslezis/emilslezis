@@ -5,7 +5,7 @@
 
 ## I'm a junior software and web developer.
 
-- 🕓 I'm coding for more than 5 years
+- 🕓 I'm coding for more than 6 years
 - 🦾 I'm curently focused on learning C++
 - 👊 I'm always open for contribution with other developers
 
