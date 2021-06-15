@@ -1,6 +1,5 @@
 ### Hello there, I'm Emil - aka [Hololing](https://emilslezis.github.io) 👋
 
-![Discord](https://img.shields.io/discord/541347220201537536?color=%237289DA&label=Join%20my%20server&logo=discord&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/holol1ng?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge)
 
 ## I'm a junior software and web developer.
