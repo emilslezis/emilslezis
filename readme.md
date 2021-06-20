@@ -5,7 +5,7 @@
 ## I'm a junior software and web developer.
 
 - 🕓 I'm coding for more than 6 years
-- 🦾 I'm curently focused on learning C++
+- 🦾 I'm curently focused on full-stack web development
 - 👊 I'm always open for contribution with other developers
 
 ### Make connection with me:
