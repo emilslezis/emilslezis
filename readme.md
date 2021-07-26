@@ -5,7 +5,7 @@
 ## I'm a junior software and web developer.
 
 - 🕓 I'm coding for more than 6 years
-- 🦾 I'm curently focused on full-stack web development
+- 🦾 I'm curently focused on discord bot development
 - 👊 I'm always open for contribution with other developers
 
 ### Make connection with me:
