@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/holol1ng?color=1da1f2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=holol1ng)
 
-## I'm a junior software and web developer.
+## I'm a software and web developer.
 
 - 🕓 I'm coding for more than 7 years
 - 🦾 I'm curently focused on discord bot development
