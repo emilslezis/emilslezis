@@ -1,5 +1,5 @@
 ### Hello there, I'm Emil - aka [Hololing](https://emilslezis.github.io) 👋
-
+[![GitHub followers](https://img.shields.io/github/followers/emilslezis?color=red&logo=github&style=for-the-badge)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Femilslezis)
 [![Twitter Follow](https://img.shields.io/twitter/follow/holol1ng?color=1da1f2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=holol1ng)
 
 ## I'm a software and web developer.
