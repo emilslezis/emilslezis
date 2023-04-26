@@ -4,7 +4,7 @@
 
 ## I'm a software and web developer.
 
-- 🕓 I'm coding for more than 7 years
+- 🕓 I'm coding for more than 8 years
 - 🦾 I'm curently focused on discord bot development
 - 👊 I'm always open for contribution with other developers
 
