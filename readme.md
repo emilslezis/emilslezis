@@ -4,11 +4,11 @@
 
 ## I'm a software and web developer.
 
-- 🕓 I'm coding for more than 8 years
-- 🦾 I'm curently focused on discord bot development
-- 👊 I'm always open for contribution with other developers
+- 🕓 I've been coding for more than 8 years (since ~10 years old)
+- 🦾 I'm currently focused on Android(Java) development & Game development
+- 👊 I'm always open to contributions from other developers
 
-### Make connection with me:
+### Make a connection with me:
 
 [<img align="left" alt="emilslezis.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://emilslezis.github.io)
 [<img align="left" alt="Emil Sležis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/holol1ng)
@@ -19,9 +19,10 @@
 
 ### Systems I work with:
 
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" />
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Apple" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png" />
 
 <br />
 
@@ -57,4 +58,4 @@
 
 ### My GitHub statistics:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=emilslezis)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emilslezis)](https://github.com/anuraghazra/github-readme-stats)
