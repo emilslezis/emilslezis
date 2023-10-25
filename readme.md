@@ -13,7 +13,7 @@
 [<img align="left" alt="emilslezis.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://emilslezis.github.io)
 [<img align="left" alt="Emil Sležis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/holol1ng)
 [<img align="left" alt="Emil Sležis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emil-sle%C5%BEis-4b57961b8/)
-[<img align="left" alt="Emil Sležis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/em1l_slezis/)
+[<img align="left" alt="Emil Sležis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/em1l.slezis/)
 
 <br />
 
