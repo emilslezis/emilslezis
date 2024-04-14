@@ -5,7 +5,7 @@
 ## I'm a software and web developer.
 
 - 🕓 I've been coding for more than 8 years (since ~10 years old)
-- 🦾 I'm currently focused on Android(Java) development & Game development
+- 🦾 I'm currently focused on Android(Kotlin) development & Game development
 - 👊 I'm always open to contributions from other developers
 
 ### Make a connection with me:
