@@ -59,4 +59,4 @@
 
 ## My GitHub statistics:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emilslezis)](https://github.com/anuraghazra/github-readme-stats)
+[![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilslezis)](https://github.com/anuraghazra/github-readme-stats)
