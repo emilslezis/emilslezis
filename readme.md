@@ -47,4 +47,4 @@ I've worked with plenty more over the years (C++, C#, Java, Python, Kotlin, Unit
 
 ### 📊 GitHub stats
 
-[![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilslezis)](https://github.com/anuraghazra/github-readme-stats)
+[![Emil's GitHub stats](https://github-stats-extended.vercel.app/api?username=emilslezis)](https://github.com/stats-organization/github-stats-extended)
